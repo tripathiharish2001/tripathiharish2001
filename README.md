@@ -235,14 +235,14 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiharish2001&show_icons=true&theme=radical"
     alt="tripathiharish2001"
-    height="200"
+    height="150"
     width="auto"
     color="red"
   />
    <img
     src="https://github-readme-stats.vercel.app/api?username=tripathiharish2001&show_icons=true&theme=tokyonight"
     alt="tripathiharish2001"
-    height="200"
+    height="150"
     width="auto"
   />
 </p>
