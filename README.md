@@ -14,15 +14,20 @@
   />
 </p>
 
-- 🎓 ECE Student at **DTU Delhi** - 🌱 I’m currently learning **Frameworks** -
-❣️Loves to code - 💬 Ask me about **MERN** - 📫 How to reach me
-<a href="https://www.linkedin.com/in/harish-tripathi-8bb144214/" target="_blank"
-  >LinkedIn</a
->
-- 🏓 Hobbies: 🎧, 🎸 and 🏏 - ⚡ Fun fact **I think I am funny 😁**
+- 🎓 ECE Student at **DTU Delhi** 
+- 🌱 I’m currently learning **Frameworks**
+-❣️Loves to code 
+- 💬 Ask me about **MERN** 
+- 📫 How to reach me
+<a href="https://www.linkedin.com/in/harish-tripathi-8bb144214/" target="_blank">LinkedIn</a>
+- 🏓 Hobbies: 🎧, 🎸 and 🏏 
+- ⚡ Fun fact **I think I am funny 😁**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- Connect with me <a href="https://www.linkedin.com/in/harish-tripathi-8bb144214/" target="_blank">**LinkedIn**</a>
+<hr/>
+
+<h2 align="center">Coding Profiles :</h3>
+<p align="center">
   <a href="https://www.codechef.com/users/harish_9582" target="blank"
     ><img
       align="center"
@@ -49,7 +54,9 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<hr/>
+
+<h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <a
     href="https://www.cprogramming.com/"
@@ -209,10 +216,11 @@
   </a>
 </p>
 
-<p>
+<hr/>
+
+<p align="center">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathiharish2001&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathiharish2001&show_icons=true&theme=tokyonight"
     alt="tripathiharish2001"
     height="200"
     width="auto"
@@ -220,19 +228,19 @@
 </p>
 
 <p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=tripathiharish2001&show_icons=true&locale=en"
-    alt="tripathiharish2001"
-    height="200"
-    width="auto"
-  />
+ 
 </p>
 
 <p align="center">
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiharish2001&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiharish2001&show_icons=true&theme=radical"
+    alt="tripathiharish2001"
+    height="200"
+    width="auto"
+    color="red"
+  />
+   <img
+    src="https://github-readme-stats.vercel.app/api?username=tripathiharish2001&show_icons=true&theme=tokyonight"
     alt="tripathiharish2001"
     height="200"
     width="auto"
