@@ -15,11 +15,11 @@
 </p>
 
 - 🎓 ECE Student at **DTU Delhi** - 🌱 I’m currently learning **Frameworks** -
-❣️Loves to code - 💬 Ask me about **MERN** - 📫 How to reach me **<a
-  href="https://www.linkedin.com/in/harish-tripathi-8bb144214/"
-  target="_blank"
+❣️Loves to code - 💬 Ask me about **MERN** - 📫 How to reach me
+<a href="https://www.linkedin.com/in/harish-tripathi-8bb144214/" target="_blank"
   >LinkedIn</a
->** - 🏓 Hobbies: 🎧, 🎸 and 🏏 - ⚡ Fun fact **I think I am funny 😁**
+>
+- 🏓 Hobbies: 🎧, 🎸 and 🏏 - ⚡ Fun fact **I think I am funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -229,7 +229,7 @@
   />
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiharish2001&"
