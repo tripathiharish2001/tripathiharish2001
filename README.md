@@ -17,7 +17,7 @@
 - 🎓 ECE Student at **DTU Delhi** 
 - 🌱 I’m currently learning **Frameworks**
 -❣️Loves to code 
-- 💬 Ask me about **MERN** 
+- 💬 Ask me about **MERN Stack** 
 - 📫 How to reach me
 <a href="https://www.linkedin.com/in/harish-tripathi-8bb144214/" target="_blank">LinkedIn</a>
 - 🏓 Hobbies: 🎧, 🎸 and 🏏 
