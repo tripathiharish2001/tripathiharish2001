@@ -214,7 +214,7 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathiharish2001&show_icons=true&locale=en&layout=compact"
     alt="tripathiharish2001"
-    height="40"
+    height="200"
     width="auto"
   />
 </p>
@@ -224,7 +224,7 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=tripathiharish2001&show_icons=true&locale=en"
     alt="tripathiharish2001"
-    height="40"
+    height="200"
     width="auto"
   />
 </p>
@@ -234,7 +234,7 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiharish2001&"
     alt="tripathiharish2001"
-    height="40"
+    height="200"
     width="auto"
   />
 </p>
