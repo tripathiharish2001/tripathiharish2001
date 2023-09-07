@@ -231,7 +231,7 @@
  
 </p>
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiharish2001&show_icons=true&theme=radical"
     alt="tripathiharish2001"
